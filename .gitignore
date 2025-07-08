@@ -1,0 +1,5 @@
+.npm/
+.gitconfig
+*.log
+*.tmp
+node_modules/
